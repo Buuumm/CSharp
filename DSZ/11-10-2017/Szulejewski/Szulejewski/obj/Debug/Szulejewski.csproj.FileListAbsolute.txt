@@ -1,0 +1,6 @@
+C:\Users\local\Desktop\DSZ\11-10-2017\Szulejewski\Szulejewski\bin\Debug\Szulejewski.exe.config
+C:\Users\local\Desktop\DSZ\11-10-2017\Szulejewski\Szulejewski\obj\Debug\Szulejewski.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\DSZ\11-10-2017\Szulejewski\Szulejewski\bin\Debug\Szulejewski.exe
+C:\Users\local\Desktop\DSZ\11-10-2017\Szulejewski\Szulejewski\bin\Debug\Szulejewski.pdb
+C:\Users\local\Desktop\DSZ\11-10-2017\Szulejewski\Szulejewski\obj\Debug\Szulejewski.exe
+C:\Users\local\Desktop\DSZ\11-10-2017\Szulejewski\Szulejewski\obj\Debug\Szulejewski.pdb
